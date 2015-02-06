@@ -4,6 +4,6 @@ return [
     'hostname' => 'localhost',
     'username' => 'root',
     'password' => 'toor',
-    'dbname'   => 'pokedex',
+    'dbname'   => 'p2019_grc_pokedex',
     'port'     => null,
 ];
